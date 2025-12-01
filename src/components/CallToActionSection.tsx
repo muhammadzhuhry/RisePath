@@ -11,7 +11,7 @@ export function CallToActionSection() {
                     <p className="mx-auto max-w-xl text-text-secondary mb-10">
                         Talk to the RisePath AI Agent now and start your personalized journey toward your next professional milestone.
                     </p>
-                    <Button size="lg" className="h-12 px-8 text-base">
+                    <Button size="lg" className="h-12 px-8 text-base text-white">
                         Talk to RisePath AI Agent
                     </Button>
                 </div>

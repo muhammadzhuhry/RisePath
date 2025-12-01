@@ -32,7 +32,7 @@ export function HeroSection() {
                 </p>
 
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                    <Button size="lg" className="h-12 px-8 text-base">
+                    <Button size="lg" className="h-12 px-8 text-base text-white">
                         Start Your Journey
                     </Button>
                 </div>
