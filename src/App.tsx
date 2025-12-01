@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { Button } from "@/components/ui/button"
 import { Hexagon, Menu, X } from "lucide-react"
 import { HeroSection } from "@/components/HeroSection"
 import { FeaturesSection } from "@/components/FeaturesSection"
